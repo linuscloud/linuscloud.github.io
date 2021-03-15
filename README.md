@@ -1,2 +1,0 @@
-# linuscloud.github.io
-linuscloud 
